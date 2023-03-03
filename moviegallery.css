@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Shantell+Sans&family=Tilt+Warp&display=swap');
+h1{
+    font-family: 'Tilt Warp', cursive;
+    background-color: black;
+    color: goldenrod;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 5px rgba(103, 98, 17, 0.638);
+    margin-top: 0%;
+}
+body{
+    background-color: black;
+    background-image: url("./IMAGES/book_images/moviegallery_background.jpeg");
+    color: azure;
+    position: relative;
+}
+.c1{
+    height: 800px;
+    width: 20%;
+    background-color: black;
+    border: gold 5px double;
+    float: left;
+    padding: 10px;
+    position: absolute;
+    
+}
+
+h3{
+    color: rgb(200, 214, 214);
+    text-align: center;
+    border: whitesmoke 3px double;
+    background-color: rgb(44, 44, 42);
+    margin-top: 0%;
+}
+.d1{
+left: 12px;
+}
+.d2{
+    left: 445px;
+}
+.d3{
+    left: 875px;
+}
+.d4{
+    left: 1300px;
+}
+img{
+    width:98% ;
+    height: 350px;
+    border: white 2px solid;
+    box-shadow: 0 4px 8px 0 rgba(221, 214, 214, 0.741), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+strong{
+    color: aquamarine;
+    text-align: center;
+}
+
+.g1{
+    text-align: center;
+}
+.R1{
+    background-color: rgba(108, 123, 126, 0.633);
+    height: 45px;
+    width: 97%;
+    /* position: relative; */
+    margin-top: 74px;
+    margin-left: 5px; 
+    text-align: center; 
+    padding: 3px 0;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(45, 97, 180, 0.701), 0 6px 20px 0 rgba(57, 113, 119, 0.541);
+
+   
+}
+.R2{
+    background-color: rgba(108, 123, 126, 0.633);
+    height: 45px;
+    width: 97%;
+    /* position: relative; */
+    margin-top: 38px;
+    margin-left: 5px;  
+    text-align: center; 
+    padding: 3px 0;  
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(45, 97, 180, 0.701), 0 6px 20px 0 rgba(57, 113, 119, 0.541);
+
+}
+.R3{
+    background-color: rgba(108, 123, 126, 0.633);
+    height: 45px;
+    width: 97%;  
+    /* position: relative; */
+    margin-top: 74px;
+    margin-left: 5px;    
+    text-align: center; 
+    padding: 3px 0;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(45, 97, 180, 0.701), 0 6px 20px 0 rgba(57, 113, 119, 0.541);
+
+}
+.R4{
+    background-color: rgba(108, 123, 126, 0.633);
+    height: 45px;
+    width: 97%;
+    /* position: relative; */
+    margin-top: 92px;
+    margin-left: 5px;   
+    text-align: center; 
+    padding: 3px 0;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(45, 97, 180, 0.701), 0 6px 20px 0 rgba(57, 113, 119, 0.541);
+}
+
+/* .t1{ 
+    background-color: black;
+    height: 90%;
+    width: 96%;
+    position: absolute;
+    left: 2%;
+    top:-27%;
+    
+    text-align: center;
+}  */
+
+
+
